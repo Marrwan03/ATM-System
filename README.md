@@ -42,7 +42,7 @@
 
 ###
 
-<h4 align="left">4- Check balance: this for show the amount of money in your account.</h4>
+<h4 align="left">4- Check balance : this for show the amount of money in your account.</h4>
 
 ###
 
