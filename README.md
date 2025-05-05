@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">I build this system to create easy way for anyone wants Deposite or without money by his card,and to practise :-)</h4>
+<h4 align="left">I build this system to create easy way for anyone wants Deposite or without money by his card,and to practice :-)</h4>
 
 ###
 
