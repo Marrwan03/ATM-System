@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀Elevator Pitch:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯The goal and the problem it solves:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Target group:</h2>
+<h2 align="left">📢Target group:</h2>
 
 ###
 
@@ -26,29 +26,29 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️Features:</h2>
 
 ###
 
-<h4 align="left">1- Quick Without : Easy without using simple number for without from your account, it's have menu of numbers and it's take amount from your account, and be carefull when you do without the amount must be less than your balance.</h4>
+<h4 align="left">1️⃣ Quick Without : Easy without using simple number for without from your account, it's have menu of numbers and it's take amount from your account, and be carefull when you do without the amount must be less than your balance.</h4>
 
 ###
 
-<h4 align="left">2- Normal Without : your free for the amount of money but be carefull the amount must be multiple of 5, and be carefull when you do without the amount must be less than your balance.</h4>
+<h4 align="left">2️⃣ Normal Without : your free for the amount of money but be carefull the amount must be multiple of 5, and be carefull when you do without the amount must be less than your balance.</h4>
 
 ###
 
-<h4 align="left">3- Deposite : it Deposites money to your account you enter the amount and your balance will be increase.</h4>
+<h4 align="left">3️⃣ Deposite : it Deposites money to your account you enter the amount and your balance will be increase.</h4>
 
 ###
 
-<h4 align="left">4- Check balance : this for show the amount of money in your account.</h4>
+<h4 align="left">4️⃣ Check balance : this for show the amount of money in your account.</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Techniques and tools used:</h2>
+<h2 align="left">🧰Techniques and tools used:</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h2 align="left">Challenges and how to overcome them:</h2>
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">Future plans:</h2>
+<h2 align="left">🪄Future plans:</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 <br clear="both">
 
-<h2 align="left">End message:</h2>
+<h2 align="left">✉️End message:</h2>
 
 ###
 
